@@ -2,7 +2,7 @@ name: otel_box
 description: >-
   OpenTelemetry instrumentation for box by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use box.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_box
 homepage: https://dartastic.io
 
